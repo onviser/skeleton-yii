@@ -1,0 +1,18 @@
+parameters:
+  level: 5
+  paths:
+    - assets
+    - commands
+    - common
+    - controllers
+    - models
+    - test
+    - views
+    - widgets
+  excludePaths:
+    - config
+    - mail
+    - migrations
+    - web
+  bootstrapFiles:
+    - vendor/yiisoft/yii2/Yii.php
