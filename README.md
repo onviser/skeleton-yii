@@ -71,4 +71,4 @@ http://skeleton-yii.local/admin/
 
 ## Contact
 
-If you have any questions, [email me](https://onviser.com/).
+If you have any questions, [contact me](https://onviser.com/).
