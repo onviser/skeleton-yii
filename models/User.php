@@ -42,7 +42,7 @@ class User extends ActiveRecord implements IdentityInterface
 
     public static function tableName(): string
     {
-        return 'user';
+        return '{{%user}}';
     }
 
     public static function findIdentity($id): User|IdentityInterface|null

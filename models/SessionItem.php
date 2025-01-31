@@ -8,6 +8,6 @@ class SessionItem extends ActiveRecord
 {
     public static function tableName(): string
     {
-        return 'session';
+        return '{{%session}}';
     }
 }

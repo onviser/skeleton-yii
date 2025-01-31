@@ -18,7 +18,7 @@ class BlockerIp extends ActiveRecord
 
     public static function tableName(): string
     {
-        return '{{%blocker_ip%}}';
+        return '{{%blocker_ip}}';
     }
 
     public function getAttempt(): int
